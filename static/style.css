@@ -1,0 +1,55 @@
+body
+{
+	max-width: 640px;
+	margin: auto;
+	font-family: sans-serif;
+}
+h1
+{
+	text-align: center;
+	border-bottom: 3px solid purple;
+}
+h2
+{
+	border-left: 2px solid purple;
+	border-bottom: 1px solid purple;
+	padding-left: 5px;
+}
+nav
+{
+	width: 200px;
+	float: left;
+}
+nav img
+{
+	width: 64px;
+	height: 64px;
+	border-radius: 9999px;
+}
+video
+{
+	width: 640px;
+	height: 480px;
+}
+.profile_pic
+{
+	width: 96px;
+	height: 96px;
+}
+.list
+{
+	column-count: 3;
+	column-rule-style: solid;
+	column-rule-color: purple;
+}
+.list img
+{
+	width: 160px;
+	height: 120px;
+}
+footer
+{
+	font-size: 12px;
+	border-top: 1px dashed purple;
+	margin-top: 5px;
+}
