@@ -1,14 +1,16 @@
 !! NOT USABLE AS IS !!
 
-λ-tube
+This project is a work in progress.
 
-# Screenshot
+# λ-tube
 
-# What is λ-tube?
+## Screenshot
+
+## What is λ-tube?
 
 λ-tube is a video sharing website engine writted in Haskell using the Scotty web framework.
 
-# Features
+## Features
 
 * Multiple channels
 * Basic account system
@@ -21,7 +23,7 @@ Features coming soon:
 * RSS feeds
 * Admin tools and video flagging
 
-# To install
+## To install
 
 First, get ghc and cabal and then install the required modules:
 
@@ -29,9 +31,9 @@ First, get ghc and cabal and then install the required modules:
 
 ffmpeg is required for thumbnailing.
 
-Finally, rename Database.db.empty to Database.db
+Finally, rename Database.db.empty to Database.db.
 
-# To use
+## To use
 
 Simply run:
 
