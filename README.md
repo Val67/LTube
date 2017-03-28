@@ -8,7 +8,7 @@ This project is a work in progress.
 
 ## What is λ-tube?
 
-λ-tube is a video sharing website engine writted in Haskell using the Scotty web framework.
+λ-tube is a video sharing website engine written in Haskell using the Scotty web framework.
 
 ## Features
 
